@@ -1,4 +1,4 @@
- using Plots
+using Plots
 using StatsBase
 
 
@@ -153,4 +153,4 @@ end
 primacy(Alpha, gamma, sigma, theta)
 main()
 
-savefig("C:\\Users\\Robin\\Documents\\Master1Neuroscience\\projet modélisation\\plot2.png")
+
